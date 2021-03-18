@@ -1,4 +1,1 @@
-python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
-
-NOW USE:
-python Object_Detection.py --prototxt AJI_Model_Deploy_List.prototxt.txt --model training_models.caffemodel
+python Object_Detection.py --prototxt Model_Deploy_List.prototxt.txt --model training_models.caffemodel
