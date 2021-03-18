@@ -1,1 +1,11 @@
+save the .py file, model deploy list and training models in one folder.
+
+change the directory/folder in your command prompt where those files are stored
+
+now type this statement in cmd___
+                                |
+                                |
+                                V
+********************************************************************************************************
 python Object_Detection.py --prototxt Model_Deploy_List.prototxt.txt --model training_models.caffemodel
+********************************************************************************************************
